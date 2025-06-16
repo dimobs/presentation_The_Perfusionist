@@ -4,17 +4,29 @@
         const totalSlides = slides.length;
         
         const speakerNotes = [
-            "Welcome everyone! Today I'll tell you about an amazing medical profession - the perfusionist. Start with enthusiasm and make eye contact.",
-            "A perfusionist is like a pilot for life-support machines. They're medical experts who work in the operating room. Explain slowly and clearly.",
-            "Imagine the heart stops beating during surgery - the perfusionist keeps the patient alive! They control blood flow and breathing. Use hand gestures to show circulation.",
-            "This machine is incredible - it literally replaces the heart and lungs during surgery. Show amazement in your voice.",
-            "Becoming a perfusionist requires special education. It's a small, exclusive profession with high standards. Emphasize the selectivity.",
-            "They work in different types of surgeries - not just heart operations. They're versatile medical professionals. Give examples if asked.",
-            "This job requires nerves of steel! One mistake can cost a life. They must be precise and calm under pressure. Show respect for the profession.",
-            "Operating rooms are intense environments. Perfusionists stand for hours, completely focused on their equipment. Describe the atmosphere.",
-            "It's a growing field with excellent pay. Healthcare always needs skilled professionals. Be positive about career prospects.",
-            "Perfusionists make impossible surgeries possible. They're heroes working behind the scenes. Show admiration and respect.",
-            "Review the vocabulary if needed. These terms are essential for understanding the profession. Speak clearly for each term.",
+            // 1
+            "Welcome everyone! Today I'll tell you about an amazing medical profession - the perfusionist.",
+            // 2
+            "A perfusionist is like a pilot for life-support machines. They're medical experts who work in the operating room.",
+            // 3
+            "Imagine the heart stops beating during surgery - the perfusionist keeps the patient alive! They control blood flow and breathing.",
+            // 4
+            "This machine is incredible - it literally replaces the heart and lungs during surgery.",
+            // 5
+            "Becoming a perfusionist requires special education. It's a small, exclusive profession with high standards.",
+            // 6
+            "They work in different types of surgeries - not just heart operations. They're versatile medical professionals.",
+            // 7
+            "This job requires nerves of steel! One mistake can cost a life. They must be precise (Присайз) and calm under pressure.",
+            // 8
+            "Operating rooms are intense environments. Perfusionists stand for hours, completely focused on their equipment.",
+            // 9
+            "It's a growing field with excellent pay. Healthcare always needs skilled professionals.",
+            // 10
+            "Perfusionists make impossible surgeries possible. They're heroes working behind the scenes.",
+            // 11
+    //   стейрайл
+            // 12
             "Thank the audience and invite questions. Be prepared to explain any concepts in simpler terms if needed."
         ];
 
